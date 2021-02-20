@@ -1,7 +1,9 @@
-/* Make sure all items can fill the page. As padding as needed. */
+
 body {
     margin: 0;
     padding: 0;
+    background-color: #0083bb;
+    color:white;
 }
 
 .navbar {
