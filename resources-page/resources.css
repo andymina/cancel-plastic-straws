@@ -1,0 +1,30 @@
+*{
+    font-family: sans-serif;
+}
+
+
+.organizations{
+  display: flex;
+  flex-direction: row;
+
+}
+
+.organizations div{
+  padding-top: 50px;
+  padding-right: 30px;
+  width: 20%;
+}
+
+.organizations p{
+  font-size: 1.2em;
+}
+
+.organizations h3{
+  font-size: x-large;
+}
+
+.footer{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-evenly;
+}
