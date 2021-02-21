@@ -39,3 +39,7 @@ body{
   flex-direction: row;
   justify-content:space-evenly;
 }
+
+.footer li{
+  font-size: 1.2em;
+}
