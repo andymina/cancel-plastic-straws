@@ -2,12 +2,22 @@
     font-family: sans-serif;
 }
 
+body{
+  margin: 0;
+  padding: 0% 3%;
+  background-color: #0083bb;
+  color:white;
+}
+
 #video{
   display: block;
   margin: auto;
 }
 
-.factset{
+.factset li{
+  font-size: 1.2em;
+}
+/* .factset{
   margin-left: 50px;
   margin-right: 50px;
-}
+} */
