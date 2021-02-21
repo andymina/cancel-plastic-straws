@@ -28,7 +28,7 @@ body {
     padding: 16px;
     color: white;
 }
-  
+
 .nav-item {
     display: block;
     float: left;
@@ -40,4 +40,11 @@ body {
 
 .nav-item:hover, .active {
     background-color: #111;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
 }
