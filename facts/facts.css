@@ -14,10 +14,47 @@ body{
   margin: auto;
 }
 
+.factset{
+  margin: 0 3%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0083bb;
+  color:white;
+}
+
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.nav-title {
+  display: block;
+  float: left;
+  margin: 0;
+  padding: 16px;
+  color: white;
+}
+
+.nav-item {
+  display: block;
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.nav-item:hover, .active {
+  background-color: #111;
+}
+
 .factset li{
   font-size: 1.2em;
 }
-/* .factset{
-  margin-left: 50px;
-  margin-right: 50px;
-} */
+
