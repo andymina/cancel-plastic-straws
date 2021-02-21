@@ -2,11 +2,22 @@
     font-family: sans-serif;
 }
 
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #0083bb;
+  color:white;
+}
+
+.learn-more div{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
 
 .organizations{
   display: flex;
   flex-direction: row;
-
 }
 
 .organizations div{
