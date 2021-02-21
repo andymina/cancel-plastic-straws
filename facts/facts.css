@@ -2,6 +2,13 @@
     font-family: sans-serif;
 }
 
+body{
+  margin: 0;
+  padding: 0% 3%;
+  background-color: #0083bb;
+  color:white;
+}
+
 #video{
   display: block;
   margin: auto;
@@ -46,3 +53,8 @@ body {
 .nav-item:hover, .active {
   background-color: #111;
 }
+
+.factset li{
+  font-size: 1.2em;
+}
+
