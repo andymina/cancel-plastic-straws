@@ -1,0 +1,13 @@
+*{
+    font-family: sans-serif;
+}
+
+#video{
+  display: block;
+  margin: auto;
+}
+
+.factset{
+  margin-left: 50px;
+  margin-right: 50px;
+}
