@@ -47,17 +47,10 @@ body {
     background-color: #111;
 }
 
-.image {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%;
+
+.heading {
+  margin: 0;
+  padding-top: 250px;
+  padding-bottom: 50px;
+  text-align: center;
 }
-/*
- .image {
-  background-image: url("img/cuteturtle.jpg");
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-} */
