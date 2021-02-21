@@ -4,9 +4,14 @@
 
 body{
   margin: 0;
-  padding: 0% 3%;
+  padding: 0;
   background-color: #0083bb;
   color:white;
+}
+
+.content {
+  margin: 0;
+  padding: 0 3%;
 }
 
 .learn-more div{
@@ -57,7 +62,7 @@ body{
   float: left;
   margin: 0;
   padding: 16px;
-  color: blue;
+  color: white;
 }
 
 .nav-item {
