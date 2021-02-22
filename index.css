@@ -10,6 +10,11 @@ body {
     margin: 0;
     padding: 0;
     background-color: #0083bb;
+    background-image: url("img/cuteturtle.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     color:white;
 }
 
@@ -28,7 +33,7 @@ body {
     padding: 16px;
     color: white;
 }
-  
+
 .nav-item {
     display: block;
     float: left;
@@ -40,4 +45,21 @@ body {
 
 .nav-item:hover, .active {
     background-color: #111;
+}
+
+
+.heading {
+  margin: 0;
+  padding-top: 180px;
+  text-align: center;
+  font-size: 35px;
+}
+
+.intro {
+  margin: 0;
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-bottom: 160px;
+  font-size: 22px;
 }
